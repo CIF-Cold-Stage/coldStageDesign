@@ -35,7 +35,7 @@ The base and cover needs to be printed seperately and are given in Table 1 as **
 ```Cold Stage Cell and Spacers```
 
 Cold stage cell houses the heat sink, TEC element, cold plate and glass cover. Thermal paste needs to be applied to heat sink, TEC element and cold plate. There are two small holes in the cell to insert thermistor cable that connects to the cold plate. Nitrogen is supplied through one of the openings to prevent condensation.
-Cold stage cell needs spacers to hold TEC element and cold plate together.
+Cold stage cell needs spacers to firmly hold heat sink, TEC element and cold plate together.
 
 The cell prints as a single design and is given as **Cell** while spacers are given as **Spacer** in Table 1.
 
